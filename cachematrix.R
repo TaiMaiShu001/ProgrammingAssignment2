@@ -82,6 +82,7 @@ cacheSolve <- function(x, ...) {
   
 }
 
+
 # #Test cases to confirm functions work
 # amatrix = makeCacheMatrix(matrix(c(1,2,3,4), nrow=2, ncol=2)) 
 # amatrix$getMat() # Returns original matrix
